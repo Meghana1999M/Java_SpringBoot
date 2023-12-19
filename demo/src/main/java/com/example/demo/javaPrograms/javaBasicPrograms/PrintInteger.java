@@ -1,4 +1,4 @@
-package com.example.demo.JavaPrograms;
+package com.example.demo.javaPrograms.javaBasicPrograms;
 
 public class PrintInteger {
     /* Print the integers using Java */

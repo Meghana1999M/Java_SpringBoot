@@ -1,4 +1,4 @@
-package com.example.demo.JavaPrograms;
+package com.example.demo.javaPrograms.javaBasicPrograms;
 
 import java.util.Scanner;
 
